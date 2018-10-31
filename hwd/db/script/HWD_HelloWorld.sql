@@ -1,6 +1,6 @@
 /*==============================================================*/
 /* DBMS name:      MySQL 5.0                                    */
-/* Created on:     2018/10/30 星期二 10:54:53                      */
+/* Created on:     2018/10/31 星期三 15:04:40                      */
 /*==============================================================*/
 
 
@@ -12,8 +12,8 @@ drop table if exists HelloWorld;
 create table HelloWorld
 (
    id                   bigint not null,
-   firstName            char(256),
-   lastName             char(256),
+   firstName            text,
+   lastName             text,
    primary key (id)
 );
 
