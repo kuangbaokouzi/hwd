@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: hwd-svr
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: jasonwu
+Implementation-Vendor-Id: com.github.kbkz.hwd
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://www.example.com/hwd-svr
+Created-By: Maven Integration for Eclipse
+
